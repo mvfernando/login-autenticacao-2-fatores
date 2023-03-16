@@ -1,8 +1,8 @@
 # Login e autenticação de 2 de fatores
 
-![preview](./.github/preview.png)
+![preview](./.github/assets/img/preview-la2f.png)
 
-> Praticando|Desáfio
+> Praticando | Desáfio 👨🏽‍💻
 
 Hi 👋🏽, hoje trouxe um projeto de como criar o login com autenticação de 2 fatores com PHP.
 
