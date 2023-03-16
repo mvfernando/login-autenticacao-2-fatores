@@ -1,6 +1,7 @@
 # Login e autenticação de 2 de fatores
 
-![preview](./.github/assets/img/preview-la2f.png)
+![preview](https://github.com/mvfernando/login-autenticacao-2-fatores/blob/3f040b24bc232a56f2e79a4d05df43e7042faf28/assets/img/preview-la2f.png)
+
 
 > Praticando | Desáfio 👨🏽‍💻
 
